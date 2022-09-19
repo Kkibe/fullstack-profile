@@ -3,7 +3,7 @@ var typed = new Typed(".auto-type", {
     strings: ["DEVELOPER.", "DESIGNER."],
     typeSpeed: 100,
     backSpeed: 100,
-    loop: true
+    loop: true 
 })
 
 //@@@@@@@@@@menulist@@@@@@######
