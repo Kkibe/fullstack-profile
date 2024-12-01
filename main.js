@@ -1,6 +1,6 @@
 //@@@@@@@@@@@@Typing Effect@@@@@################
 var typed = new Typed(".auto-type", {
-    strings: ["DEVELOPER.", "DESIGNER."],
+    strings: ["FULL STACK DEVELOPER", "SOFTWARE ENGINEER", "MOBILE DEVELOPER"],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true 
